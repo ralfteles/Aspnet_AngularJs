@@ -1,0 +1,142 @@
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\ApplicationInsights.config
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\roslyn\csc.exe
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\roslyn\vbc.exe
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\Projeto.Web.dll.config
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\Projeto.Web.dll
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\Projeto.Web.pdb
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\Projeto.Web.xml
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\Antlr3.Runtime.dll
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\Microsoft.AI.Web.dll
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\Newtonsoft.Json.dll
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\System.Web.Helpers.dll
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\System.Web.Mvc.dll
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\System.Web.Optimization.dll
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\System.Web.Razor.dll
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\System.Web.WebPages.dll
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\WebGrease.dll
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\Microsoft.AI.Web.xml
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\System.Web.Helpers.xml
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\System.Web.Mvc.xml
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\System.Web.Optimization.xml
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\System.Web.Razor.xml
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\System.Web.WebPages.xml
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\Antlr3.Runtime.pdb
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\Newtonsoft.Json.xml
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\obj\Debug\Projeto.Web.vbprojResolveAssemblyReference.cache
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\obj\Debug\Projeto.Web.Resources.resources
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\obj\Debug\Projeto.Web.vbproj.GenerateResource.Cache
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\obj\Debug\Projeto.Web.dll
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\obj\Debug\Projeto.Web.xml
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\obj\Debug\Projeto.Web.pdb
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\Banco.mdf
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\Banco_log.ldf
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\EntityFramework.dll
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\Projeto.Dal.dll
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\SimpleInjector.dll
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\SimpleInjector.Integration.Web.dll
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\Projeto.Dal.pdb
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\Projeto.Dal.xml
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\EntityFramework.xml
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\SimpleInjector.xml
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\SimpleInjector.Integration.Web.xml
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Web\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\obj\Debug\Projeto.Web.vbprojResolveAssemblyReference.cache
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\obj\Debug\Projeto.Web.Resources.resources
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\obj\Debug\Projeto.Web.vbproj.GenerateResource.Cache
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\obj\Debug\Projeto.Web.dll
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\obj\Debug\Projeto.Web.xml
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\obj\Debug\Projeto.Web.pdb
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\ApplicationInsights.config
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\roslyn\csc.exe
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\roslyn\vbc.exe
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\Projeto.Web.dll.config
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\Projeto.Web.dll
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\Projeto.Web.pdb
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\Projeto.Web.xml
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\Antlr3.Runtime.dll
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\EntityFramework.dll
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\Microsoft.AI.Web.dll
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\Newtonsoft.Json.dll
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\Projeto.Dal.dll
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\SimpleInjector.dll
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\SimpleInjector.Integration.Web.dll
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\System.Web.Helpers.dll
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\System.Web.Mvc.dll
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\System.Web.Optimization.dll
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\System.Web.Razor.dll
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\System.Web.WebPages.dll
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\WebGrease.dll
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\Projeto.Dal.pdb
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\Projeto.Dal.xml
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\EntityFramework.xml
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\Microsoft.AI.Web.xml
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\SimpleInjector.xml
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\SimpleInjector.Integration.Web.xml
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\System.Web.Helpers.xml
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\System.Web.Mvc.xml
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\System.Web.Optimization.xml
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\System.Web.Razor.xml
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\System.Web.WebPages.xml
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\Antlr3.Runtime.pdb
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Web\bin\Newtonsoft.Json.xml

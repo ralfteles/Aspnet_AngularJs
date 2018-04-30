@@ -1,0 +1,30 @@
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Dal\bin\Debug\Banco.mdf
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Dal\bin\Debug\Banco_log.ldf
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Dal\bin\Debug\Projeto.Dal.dll.config
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Dal\bin\Debug\Projeto.Dal.dll
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Dal\bin\Debug\Projeto.Dal.pdb
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Dal\bin\Debug\Projeto.Dal.xml
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Dal\bin\Debug\EntityFramework.dll
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Dal\bin\Debug\EntityFramework.xml
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Dal\obj\Debug\Projeto.Dal.vbprojResolveAssemblyReference.cache
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Dal\obj\Debug\Projeto.Dal.Resources.resources
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Dal\obj\Debug\Projeto.Dal.vbproj.GenerateResource.Cache
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Dal\obj\Debug\Projeto.Dal.dll
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Dal\obj\Debug\Projeto.Dal.xml
+C:\Users\ralf_\Desktop\Prova mgn\ProjetoTeste\Projeto.Dal\obj\Debug\Projeto.Dal.pdb
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Dal\bin\Debug\Projeto.Dal.dll.config
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Dal\bin\Debug\Projeto.Dal.dll
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Dal\bin\Debug\Projeto.Dal.pdb
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Dal\bin\Debug\Projeto.Dal.xml
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Dal\bin\Debug\EntityFramework.dll
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Dal\bin\Debug\EntityFramework.xml
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Dal\obj\Debug\Projeto.Dal.vbprojResolveAssemblyReference.cache
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Dal\obj\Debug\Projeto.Dal.Resources.resources
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Dal\obj\Debug\Projeto.Dal.vbproj.GenerateResource.Cache
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Dal\obj\Debug\Projeto.Dal.dll
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Dal\obj\Debug\Projeto.Dal.xml
+C:\Users\ralf_\Desktop\Prova MGN - V2\ProjetoTeste\Projeto.Dal\obj\Debug\Projeto.Dal.pdb
